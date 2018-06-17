@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-try 
-=======
-try editin
->>>>>>> 607a719ef437faa3210ddd1ece0e68836d9f90bb
-
-
-ok
